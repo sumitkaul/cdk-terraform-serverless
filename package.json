@@ -25,7 +25,8 @@
     "cdktf": "^0.4.0",
     "constructs": "^3.3.75",
     "cron-time-generator": "^1.2.0",
-    "esbuild": "^0.12.6"
+    "esbuild": "^0.12.6",
+    "run": "^1.4.0"
   },
   "devDependencies": {
     "@types/node": "^15.6.2",
